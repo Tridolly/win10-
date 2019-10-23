@@ -12,7 +12,7 @@
 
 5. 进入pe，打开diskGenus，把C盘删除分区（硬盘->删除所有分区）或者格式化，注意保存操作
 
-![img](file:///E:\QQ\QQfile\1157932484\Image\C2C\862CE37F1F28230BDE1661B98AB231DB.jpg)
+![img](picture\862CE37F1F28230BDE1661B98AB231DB.jpg)
 
 6. 点击win10镜像，按setup.exe，然后一直下一步
 
@@ -20,11 +20,11 @@
 
 8. 选择自定义
 
-![img](file:///E:\QQ\QQfile\1157932484\Image\C2C\233F3EFC5C5EFCDFF2261199566D127B.jpg)
+![img](picture\233F3EFC5C5EFCDFF2261199566D127B.jpg)
 
 9. 选择要装的盘，点击下一步
 
-![img](file:///E:\QQ\QQfile\1157932484\Image\C2C\811702FE4981BB7D1F1F0371E0B8A873.jpg)
+![img](picture\811702FE4981BB7D1F1F0371E0B8A873.jpg)
 
 10. 等待。。。
 
@@ -34,11 +34,11 @@
 
 13. 激活win系统，点击激活的脚本，选1
 
-![img](file:///E:\QQ\QQfile\1157932484\Image\C2C\A1DD51DA193EEB7CA356C051D6E18F75.jpg)
+![img](picture\A1DD51DA193EEB7CA356C051D6E18F75.jpg)
 
 14. 成功的界面
 
-![img](file:///E:\QQ\QQfile\1157932484\Image\C2C\D6C57DA5C4740784D15FF504AE4D2D0A.jpg)
+![img](picture\D6C57DA5C4740784D15FF504AE4D2D0A.jpg)
 
 
 
@@ -50,28 +50,28 @@
 
 1. 进pe，打开diskGenus，系统盘新建分区100M，选择调整分区大小
 
-![img](file:///E:\QQ\QQfile\1157932484\Image\C2C\6913E224F0EB080E445F1FD5A7291476.jpg)
+![img](picture\6913E224F0EB080E445F1FD5A7291476.jpg)
 
-![img](file:///E:\QQ\QQfile\1157932484\Image\C2C\C568396DE493D77F8F0F74FE0E9F4EAB.jpg)
+![img](picture\C568396DE493D77F8F0F74FE0E9F4EAB.jpg)
 
-![img](file:///E:\QQ\QQfile\1157932484\Image\C2C\5E5E0DEBF34C6DC01030C934CE4D7983.jpg)
+![img](picture\5E5E0DEBF34C6DC01030C934CE4D7983.jpg)
 
 2. 删除100M的新分区，使其变成闲置状态，右键100M的柱子，建立新分区
 
-![img](file:///E:\QQ\QQfile\1157932484\Image\C2C\356ADE28E0FDA6B17E0E8FFB98177AA8.jpg)
+![img](picture\356ADE28E0FDA6B17E0E8FFB98177AA8.jpg)
 
-![img](file:///E:\QQ\QQfile\1157932484\Image\C2C\98F427CD544F154FA4E888948FA2218D.jpg)
+![img](picture\98F427CD544F154FA4E888948FA2218D.jpg)
 
 3. 打开桌面上的dism++软件，确定
 
-![1570443483416](C:\Users\wangchen\AppData\Roaming\Typora\typora-user-images\1570443483416.png)
+![1570443483416](picture\1570443483416.png)
 
 4. 选择要修复的系统
 
-![1570443509965](C:\Users\wangchen\AppData\Roaming\Typora\typora-user-images\1570443509965.png)
+![1570443509965](picture\1570443509965.png)
 
 5. 选择 恢复功能->引导修复
 
-![1570443558740](C:\Users\wangchen\AppData\Roaming\Typora\typora-user-images\1570443558740.png)
+![1570443558740](picture\1570443558740.png)
 
 6. 成功后如果在diskGenus中看到有EFI分区就完成修复
