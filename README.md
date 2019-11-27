@@ -64,14 +64,14 @@
 
 3. 打开桌面上的dism++软件，确定
 
-![11](https://github.com/Tridolly/win10Reinstall/blob/master/picture/11.jpg)
+![11](https://github.com/Tridolly/win10Reinstall/blob/master/picture/11.png)
 
 4. 选择要修复的系统
 
-![12](https://github.com/Tridolly/win10Reinstall/blob/master/picture/12.jpg)
+![12](https://github.com/Tridolly/win10Reinstall/blob/master/picture/12.png)
 
 5. 选择 恢复功能->引导修复
 
-![13](https://github.com/Tridolly/win10Reinstall/blob/master/picture/13.jpg)
+![13](https://github.com/Tridolly/win10Reinstall/blob/master/picture/13.png)
 
 6. 成功后如果在diskGenus中看到有EFI分区就完成修复
