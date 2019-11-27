@@ -12,7 +12,7 @@
 
 5. 进入pe，打开diskGenus，把C盘删除分区（硬盘->删除所有分区）或者格式化，注意保存操作
 
-![01](picture\01.jpg)
+![01](https://github.com/Tridolly/win10Reinstall/blob/master/picture/01.jpg)
 
 6. 点击win10镜像，按setup.exe，然后一直下一步
 
