@@ -20,11 +20,11 @@
 
 8. 选择自定义
 
-![02](picture\02.jpg)
+![02](https://github.com/Tridolly/win10Reinstall/blob/master/picture/02.jpg)
 
 9. 选择要装的盘，点击下一步
 
-![03](picture\03.jpg)
+![03](https://github.com/Tridolly/win10Reinstall/blob/master/picture/03.jpg)
 
 10. 等待。。。
 
@@ -34,11 +34,11 @@
 
 13. 激活win系统，点击激活的脚本，选1
 
-![04](picture\04.jpg)
+![04](https://github.com/Tridolly/win10Reinstall/blob/master/picture/04.jpg)
 
 14. 成功的界面
 
-![05](picture\05.jpg)
+![05](https://github.com/Tridolly/win10Reinstall/blob/master/picture/05.jpg)
 
 
 
@@ -50,28 +50,28 @@
 
 1. 进pe，打开diskGenus，系统盘新建分区100M，选择调整分区大小
 
-![06](picture\06.jpg)
+![06](https://github.com/Tridolly/win10Reinstall/blob/master/picture/06.jpg)
 
-![07](picture\07.jpg)
+![07](https://github.com/Tridolly/win10Reinstall/blob/master/picture/07.jpg)
 
-![08](picture\08.jpg)
+![08](https://github.com/Tridolly/win10Reinstall/blob/master/picture/08.jpg)
 
 2. 删除100M的新分区，使其变成闲置状态，右键100M的柱子，建立新分区
 
-![09](picture\09.jpg)
+![09](https://github.com/Tridolly/win10Reinstall/blob/master/picture/09.jpg)
 
-![10](picture\10.jpg)
+![10](https://github.com/Tridolly/win10Reinstall/blob/master/picture/10.jpg)
 
 3. 打开桌面上的dism++软件，确定
 
-![11](picture\11.png)
+![11](https://github.com/Tridolly/win10Reinstall/blob/master/picture/11.jpg)
 
 4. 选择要修复的系统
 
-![12](picture\12.png)
+![12](https://github.com/Tridolly/win10Reinstall/blob/master/picture/12.jpg)
 
 5. 选择 恢复功能->引导修复
 
-![13](picture\13.png)
+![13](https://github.com/Tridolly/win10Reinstall/blob/master/picture/13.jpg)
 
 6. 成功后如果在diskGenus中看到有EFI分区就完成修复
